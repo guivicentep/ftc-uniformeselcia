@@ -1,0 +1,44 @@
+.secao-home {
+    height: 10vh;
+    
+}
+
+.secao-blog .secao-titulo h1 {
+    text-align: center;
+    font-family: GothanBold;
+    color: #40a8f4;
+    margin: 100px auto 10px;
+    font-size: 60px;
+}
+
+.secao-blog h5{
+    text-align: center;
+    font-family: GothanBook;
+    color: gray;
+    font-size: 20px;
+}
+
+.form-inline {
+    text-align: center;
+    font-family: GothanBook;
+    color: gray;
+    font-size: 20px;
+    justify-content: center;
+    margin: 100px auto 50px;
+}
+
+.btn-outline-success {
+    color: black;
+    background-color: #40a9f4a6;
+    border-color: white;
+    border-radius: 1rem;
+    border-color: rgb(206, 206, 206);
+    border-color: white;
+    color: #fff;
+  }
+  
+  .btn-outline-success:hover {
+    color: #fff;
+    background-color: #40a8f4;
+    border-color: white;
+  }
